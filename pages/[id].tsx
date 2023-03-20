@@ -1,7 +1,5 @@
 import { ArrowNarrowLeftIcon } from "@heroicons/react/outline";
 import type { GetStaticPaths, GetStaticProps, NextPage } from "next";
-import Image from "next/image";
-import Link from "next/link";
 import { useRouter } from "next/router";
 import { CountryData } from "../interfaces/Country";
 import CountryDetailsCard from "../components/CountryDetailsCard";
