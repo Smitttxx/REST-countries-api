@@ -1,6 +1,31 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Welcome to the REST countries api code test
+
+Thanks for giving me the opportunity to showcase my skills, in a fun test! I hope you have fun playing around.
+
+Few things before you dive in ;-
+
+This app uses NextJS, Typescript, Tailwind.
+
+There are a few features which give the app a better UX for the user eg :-
+
+- Loading bar at the top to stop the user hanging
+
+- i18n translations to make the website as usable as possible
+
+- theme for light and dark mode to increase accessability
+
+Any questions please leave them in the comments!
+
 ## Getting Started
+
+```bash
+npm install
+-
+yarn install
+
+```
 
 First, run the development server:
 

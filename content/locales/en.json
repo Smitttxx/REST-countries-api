@@ -1,0 +1,17 @@
+{
+  "app.backButton": "Back",
+  "app.filter": "Filter by Region",
+  "app.header": "Lets explore!",
+  "app.searchPlaceholder": "Where do we want to go?",
+  "app.theme.darkMode": "Dark Mode",
+  "app.theme.lightMode": "Light Mode",
+  "country.borderCountries": "Border Countries:",
+  "country.capital": "Capital:",
+  "country.currencies": "Currencies:",
+  "country.languages": "Languages:",
+  "country.nativeName": "Native Name:",
+  "country.population": "Population:",
+  "country.region": "Region:",
+  "country.subRegion": "Sub Region:",
+  "country.topLevelDomain": "Top Level Domain:"
+}
